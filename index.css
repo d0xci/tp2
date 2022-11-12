@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-size: 500%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p { width: 500px;
+    text-align: start;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+video { margin: auto;
+    width: 1920px;
+}
+
+.carousel-inner {width: 1920px
+    
+    
+}
+
+.card1 { min-width: 80px
+
+}
+
+.card2 { min-width: 80px
+
+}
+
+.card3 { min-width: 80px
+
+}
